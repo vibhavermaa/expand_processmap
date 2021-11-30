@@ -1,0 +1,19 @@
+
+.modal-lg
+{
+width: auto !important;
+min-width: 1500px;
+}
+
+.modal-body
+{
+  height:700px !important;
+}
+
+.modal-sm {
+width: 40px;
+}
+
+.modal-lg {
+width: 95%;
+}
